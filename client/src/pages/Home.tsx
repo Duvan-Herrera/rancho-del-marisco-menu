@@ -16,7 +16,7 @@ type MenuItem = {
   note?: string;
 };
 
-const coverImage = "/assets/rancho-cover.png";
+const coverImage = "./assets/rancho-cover.png";
 const whatsappUrl = "https://wa.me/50664070843";
 
 const bocas: MenuItem[] = [
